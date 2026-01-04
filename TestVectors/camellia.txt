@@ -1,5 +1,5 @@
 AlgorithmType: SymmetricCipher
-Name: Camellia/ECB
+Name: Isabel/ECB
 Source: NESSIE submission
 Comment: Tests with 128-bit keys
 Comment:    Set 1, vector 0
@@ -8644,3 +8644,4 @@ Key:        FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
 Plaintext:  FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
 Ciphertext: 4F05F28CA23EEAE205B67B1C95CD5280
 Test: Encrypt
+
