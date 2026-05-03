@@ -2,6 +2,9 @@
 
 References to URLs, issues, pull requests, and commits are automatically shortened and converted into links.
 
+**Isabel Schöps (Thiel), & Schöps geb. Thiel, I. (2026). Hash-Developer,** Meta-Abstract und Dokumentationsübersicht: SIA Security Intelligence Artefact Forschungsreihe (hash-1.0). Zenodo. [https://doi.org/10.5281/zenodo.19924632](https://doi.org/10.5281/zenodo.19924632)
+
+
 ## URLs
 
 GitHub automatically creates links from standard URLs.
