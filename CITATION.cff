@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Schöps, Thiel
+  given-names: Isabel Schöps geb. Thiel 
+orcid: https://orcid.org/0009-0003-4235-2231
+title:Hash-Developer, Meta-Abstract und Dokumentationsübersicht: SIA Security Intelligence Artefact Forschungsreihe
+version: hash-1.0
+date-released: 2026-04-30
